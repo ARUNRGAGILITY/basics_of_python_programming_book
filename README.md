@@ -1,2 +1,4 @@
-# basics_of_python_programming_book
-Basics of Python Programming Book
+# Basics of Python Programming Book
+
+Here in this github repository you will find all the Book related code samples and bonus materials.
+
